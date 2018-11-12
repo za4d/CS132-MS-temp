@@ -1,0 +1,5 @@
+a: DC.b #10	| Declare constant a
+b: DS.b 1	| Declare varible b
+
+MOVE a,D0
+
